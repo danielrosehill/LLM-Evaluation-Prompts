@@ -1,0 +1,23 @@
+{
+    "project_name": "LLM Evaluation Prompt Repository",
+    "description": "A curated repository of prompts developed for the purpose of running controlled experiments to compare the performance of various large language models (LLMs) and fine-tuned models at specific tasks. The repository is designed to focus on prompts tailored to the user's specific use-cases, which may not be covered by existing evaluation libraries.",
+    "purpose": "To create a small but focused library of evaluation prompts that are highly specific to the user's individual needs for testing LLM performance in controlled experiments. The goal is to help identify the most effective LLM or fine-tuned model for recurring tasks or workflows.",
+    "target_audience": "Users or researchers looking to compare and evaluate LLMs based on specific, use-case-driven tasks.",
+    "features": [
+      {
+        "name": "Custom Prompts",
+        "description": "Each prompt is designed for specific tasks, ensuring relevance to the user's unique needs."
+      },
+      {
+        "name": "LLM and Fine-Tuned Model Comparisons",
+        "description": "The repository facilitates controlled experiments for testing different LLMs and fine-tuned models."
+      },
+      {
+        "name": "Evaluation for Specific Tasks",
+        "description": "Focuses on tasks that may not be adequately covered by general prompt libraries, ensuring highly targeted evaluations."
+      }
+    ],
+    "status": "In development",
+    "created_by": "Daniel",
+    "creation_date": "2024-10-13"
+  }
