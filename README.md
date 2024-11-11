@@ -1,8 +1,12 @@
 # My LLM Evaluation Prompt Repository
   
-
 ## Purpose
 The purpose of this repository is to gather together a curated collection of prompts for conducting controlled experiments aimed at **comparing and evaluating the efficacy of different large language models (LLMs)**, including fine-tuned models, for specific use-cases. These prompts are designed to facilitate targeted testing and help determine which models are most effective in performing certain tasks.
+
+## Structure
+
+`Eval-Prompts` - Prompts I've earmarked for evaluation purposes.  
+`Old-Prompts` - Real prompts that I've previously run for generations (in some cases edited for PII-removal). Many of these are not that useful and repetitive. But they're reflective of the type of casual prompting I commonly use so I use them as "pipeline" candidates for future evaluations.
 
 ## Use Cases
 The prompts included in this repository reflect some of the **specific use-cases** I have identified in my work with LLMs. These use-cases are unique to my context and needs, so the prompts may not necessarily be applicable or useful outside of this context. However, I am open-sourcing them here in case they may prove helpful to others looking to run similar experiments or tests.
