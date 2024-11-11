@@ -1,0 +1,12 @@
+{
+	"Basic prompt log": {
+		"prefix": "Basic prompt log",
+		"description": "Basic prompt log",
+		"scope": "markdown",
+		"body": [
+			"# Prompt",
+			"",
+			"[END]"
+		]
+	}
+}
