@@ -1,4 +1,6 @@
 # My LLM Evaluation Prompt Repository
+
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/LLM-Evaluation-Prompts)
   
 ## Purpose
 The purpose of this repository is to gather together a curated collection of prompts for conducting controlled experiments aimed at **comparing and evaluating the efficacy of different large language models (LLMs)**, including fine-tuned models, for specific use-cases. These prompts are designed to facilitate targeted testing and help determine which models are most effective in performing certain tasks.
