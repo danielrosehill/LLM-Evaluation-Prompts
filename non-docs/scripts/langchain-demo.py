@@ -6,8 +6,9 @@ from tqdm import tqdm
 
 # Configuration
 TOPIC = "cybersecurity"  # Easy to change this to any other topic
-TOTAL_PROMPTS = 10  # Reduced total number of prompts
-BATCH_SIZE = 5      # Reduced batch size
+TOTAL_PROMPTS = 10       # Reduced total number of prompts
+BATCH_SIZE = 5           # Reduced batch size
+OUTPUT_DIR = "/place-to-save-prompts"  # Hardcoded output directory
 
 def create_filename(prompt_text):
     """Create a filename from the prompt text."""
@@ -56,10 +57,9 @@ for i in tqdm(range(0, TOTAL_PROMPTS, BATCH_SIZE)):
     responses.extend(sub_responses)
 
 # Step 4: Save each prompt as a markdown file
-output_dir = "/your-dir"
-os.makedirs(output_dir, exist_ok=True)
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-print(f"\nSaving prompts to {output_dir}...")
+print(f"\nSaving prompts to {OUTPUT_DIR}...")
 used_filenames = set()
 
 for i, response in enumerate(responses):
@@ -86,8 +86,8 @@ type: {TOPIC}
 
 {prompt_text}
 """
-    file_path = os.path.join(output_dir, filename)
+    file_path = os.path.join(OUTPUT_DIR, filename)
     with open(file_path, "w", encoding="utf-8") as file:
         file.write(markdown_content)
 
-print(f"Successfully generated {TOTAL_PROMPTS} {TOPIC} prompts and saved them to {output_dir}")
+print(f"Successfully generated {TOTAL_PROMPTS} {TOPIC} prompts and saved them to {OUTPUT_DIR}")
