@@ -1,0 +1,1 @@
+can you find me some examples of industries where voice to text transcription is used professionally and intensively and demands for accuracy are high I'm thinking perhaps emergency dispatch plus I don't know if it's actually used in that context can you try to retrieve information from reliable sources

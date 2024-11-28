@@ -1,0 +1,1 @@
+let's imagine that I'm picking out a new Android and the sole Factor guiding my purchasing decision is going to be what phone can I buy that will offer the very best performance in voice to text tasks what phone would you recommend or was hardware specifications would you recommend that I focus on

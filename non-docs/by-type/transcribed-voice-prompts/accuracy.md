@@ -1,0 +1,1 @@
+I'm using my phone for voice to text the microphone is located at the bottom I'm interested in knowing the extent to which speaking to the microphone would affect the accuracy of the transcriptions would it make a significant difference if for example I had the phone pointed away from me what kind of difference in accuracy is expected

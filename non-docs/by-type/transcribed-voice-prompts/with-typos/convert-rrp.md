@@ -1,0 +1,1 @@
+I'm looking to buy a poly Voyager focus 2 can you calculate the current RRP in the US then convert US to Israeli shekels at today's race

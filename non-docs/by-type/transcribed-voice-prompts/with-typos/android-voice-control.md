@@ -1,0 +1,1 @@
+what are some tools for Androids that can be used to provide completely hands-free operation and thinking about apps that are designed specifically for this purpose that go beyond voice to text typing but also integrase functionalities like copying and pasting text just using your voice

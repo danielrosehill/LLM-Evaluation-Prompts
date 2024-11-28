@@ -1,0 +1,1 @@
+I'm currently using a Samsung a23 5G I'm finding that the voice to text performance is very poor I would like to purchase a new phone with Superior voice to text performance my budget is up to 400 USD please suggest some options

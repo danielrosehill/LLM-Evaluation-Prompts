@@ -1,0 +1,1 @@
+In VS Code, I'd like to be able to use the scroll wheel of my mouse to control zoom, but it's disabled

@@ -5,6 +5,12 @@
 ## Purpose
 The purpose of this repository is to gather together a curated collection of prompts for conducting controlled experiments aimed at **comparing and evaluating the efficacy of different large language models (LLMs)**, including fine-tuned models, for specific use-cases. These prompts are designed to facilitate targeted testing and help determine which models are most effective in performing certain tasks.
 
+## Notes
+
+Some of the prompts are prompts that were captured using voice to text software (usually on my Android). Sometimes, these are marked as such but in other instances they're interspersed with other prompts.
+
+Important note: no effort (whatsoever) has been made to rewrite them for clarity (for example, fixing mixtranscribed words, adding punctuation). As dealing with typos and spotty speech to text performance is an essential attribute of multimodal LLMs performing in the real imperfect world, I thought it was better to keep these prompts in their unedited format for more realistic evaluation when trying to compare the efficacy of various models.
+
 ## Structure
 
 `Eval-Prompts` - Prompts I've earmarked for evaluation purposes.  

@@ -1,0 +1,1 @@
+I'd like to use Cloudinary to serve social preview images on my MK Docs blog that I'm deploying through Netlify. I'd need to be able to take a backup of the images and would prefer to be able to upload them easily and conveniently. My OS is OpenSuse. Suggest a way to do this.

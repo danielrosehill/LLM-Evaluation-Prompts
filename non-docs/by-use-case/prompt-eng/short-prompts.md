@@ -1,0 +1,1 @@
+What are some examples of very short and specific instructions you can provide to an LLM to radically shift the nature of its output. One that I like and use is "make a determination" to ask an LLM to make a choice. What are some other ones like this you can think of?
