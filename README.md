@@ -1,5 +1,7 @@
 # My LLM Evaluation Prompt Repository
 
+ ![alt text](images/androids-shopping-llms-aisle.webp)
+
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/LLM-Evaluation-Prompts)
   
 ## Purpose
