@@ -4,7 +4,7 @@ A natural language prompt asking for edits to a Streamlit program/utility.
 
 Contains both V1 and requested edits dictated by voice.
 
-Use-case is testing the ability of code gen LLMs to iterate on a previous version.
+The use case is testing out the ability of the LLM to output a sufficiently long output to output the whole updated script without breaks.
 
 ```text
 Please fix the formatting in the Streamlit app. The problem is that I want the EBITDA and EBITDA minus total emissions to have the exact same presentation format. They should both firstly be denominated in dollars, firstly in billions, correct to two decimal places. Then on a separate line, in millions, correct to two decimal places. That number is preceded by dollars as well. Additionally, in the generated csv data row, nothing should have more than two decimal places
